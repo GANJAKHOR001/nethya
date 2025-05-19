@@ -10,7 +10,7 @@
         },
         "NETHYA_API": {
             "description": "go to @NethyaBot and then send /token you will get a api paste it here ",
-            "required": true
+            "required": false
         },
         "ERROR_LOG": {
             "description": "error channel log id",
